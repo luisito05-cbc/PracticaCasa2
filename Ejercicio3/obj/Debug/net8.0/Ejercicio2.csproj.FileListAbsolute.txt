@@ -1,0 +1,14 @@
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/bin/Debug/net8.0/Ejercicio2
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/bin/Debug/net8.0/Ejercicio2.deps.json
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/bin/Debug/net8.0/Ejercicio2.runtimeconfig.json
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/bin/Debug/net8.0/Ejercicio2.dll
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/bin/Debug/net8.0/Ejercicio2.pdb
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfoInputs.cache
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.AssemblyInfo.cs
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.dll
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/refint/Ejercicio2.dll
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.pdb
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/Ejercicio2.genruntimeconfig.cache
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio2/obj/Debug/net8.0/ref/Ejercicio2.dll

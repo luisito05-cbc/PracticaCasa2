@@ -1,0 +1,14 @@
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.AssemblyInfoInputs.cache
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.AssemblyInfo.cs
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/bin/Debug/net8.0/Ejercicio4
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/bin/Debug/net8.0/Ejercicio4.deps.json
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/bin/Debug/net8.0/Ejercicio4.runtimeconfig.json
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/bin/Debug/net8.0/Ejercicio4.dll
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/bin/Debug/net8.0/Ejercicio4.pdb
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.dll
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/refint/Ejercicio4.dll
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.pdb
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/Ejercicio4.genruntimeconfig.cache
+/Users/luisfernandovierachagas/RiderProjects/PracticaCasa/Ejercicio4/obj/Debug/net8.0/ref/Ejercicio4.dll
